@@ -1,0 +1,17 @@
+.personalInfo{
+    color:red;
+    font-size:20px;
+}
+.goals{
+    color:rgb(142, 211, 53);
+    font-size:20px;
+    
+}
+.column{
+    flex:50%
+
+}
+.row{
+    display: flex;
+    
+}
